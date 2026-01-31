@@ -14,3 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I’m Selamawit 👋
+
+## 🔐 Cyber Security Analyst | Offensive Security
+
+I am a cybersecurity professional focused on offensive security, application security testing, and risk assessment.  
+I work on identifying vulnerabilities in web, mobile, and API-based systems and helping teams fix them before attackers do.
+
+---
+
+## 🛠️ Skills & Tools
+- Web & Mobile Application Security Testing
+- OWASP Top 10
+- API Security
+- Android Security Testing
+- Burp Suite, Nmap, Metasploit
+- Linux, Bash, Python
+- Threat Modeling & Security Assessment
+
+---
+
+## 🔍 Current Focus
+- Mobile Banking Security (Android & iOS)
+- API authentication & authorization testing
+- Red Team & Purple Team skill development
+
+---
+
+## 📚 Continuous Learning
+- TryHackMe
+- Hack The Box
+- Cybersecurity & AI training programs
+
+---
+
+## 📫 Contact
+- LinkedIn: (https://www.linkedin.com/in/selamawit-alemu6/)
+
+
