@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I’m Selamawit 👋
+# Hi, I’m Selamawit 
 
 ## 🔐 Cyber Security Analyst | Offensive Security
 
